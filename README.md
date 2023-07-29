@@ -1,1 +1,2 @@
 # Taiwan_Seismic_Profile
+Use the projection method to project the Taiwan earthquake onto the specified section. Because the fastest way to cut the section is to input the two ends of the section, so the purpose is to simplify the program and let the program be used as an auxiliary tool, and change everything you want to see to manual control, which is convenient to use. And in order to facilitate the observation of the structure, I added the terrain height and the coastline map of Taiwan to the output map, so that the actual position of the section can be seen.
